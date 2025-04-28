@@ -1,5 +1,5 @@
 # K3's Home Page (Android)
-Apple:
+Apple: https://github.com/K3Soft-Hard/K3-s-Home-Page-Apple-/tree/main
 
  IMPORTANT!
  Sometimes (once every 4 week or before use)

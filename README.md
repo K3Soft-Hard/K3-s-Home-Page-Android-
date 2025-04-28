@@ -1,4 +1,6 @@
 # K3's Home Page (Android)
+Apple:
+
  IMPORTANT!
  Sometimes (once every 4 week or before use)
  you need to clear aplication's cashe.
